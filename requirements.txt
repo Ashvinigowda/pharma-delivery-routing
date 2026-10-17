@@ -1,0 +1,3 @@
+# The optimisation code uses ONLY the Python standard library.
+# matplotlib is needed only for analyse.py (plots).
+matplotlib>=3.5

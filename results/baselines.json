@@ -1,0 +1,142 @@
+{
+ "C101": {
+  "NN": {
+   "distance": 1870.6937996225552,
+   "vehicles": 21,
+   "valid": true,
+   "time": 0.0014107227325439453
+  },
+  "CW": {
+   "distance": 930.1213683043279,
+   "vehicles": 12,
+   "valid": true,
+   "time": 0.004476070404052734
+  }
+ },
+ "C102": {
+  "NN": {
+   "distance": 1992.4607905169812,
+   "vehicles": 19,
+   "valid": true,
+   "time": 0.0012640953063964844
+  },
+  "CW": {
+   "distance": 1034.2392468377516,
+   "vehicles": 14,
+   "valid": true,
+   "time": 0.0038127899169921875
+  }
+ },
+ "C201": {
+  "NN": {
+   "distance": 1880.4681301128182,
+   "vehicles": 15,
+   "valid": true,
+   "time": 0.0016245841979980469
+  },
+  "CW": {
+   "distance": 751.8195661323308,
+   "vehicles": 6,
+   "valid": true,
+   "time": 0.004245758056640625
+  }
+ },
+ "R101": {
+  "NN": {
+   "distance": 2623.2448736470656,
+   "vehicles": 37,
+   "valid": true,
+   "time": 0.0013241767883300781
+  },
+  "CW": {
+   "distance": 2002.3989894678102,
+   "vehicles": 31,
+   "valid": true,
+   "time": 0.004395723342895508
+  }
+ },
+ "R102": {
+  "NN": {
+   "distance": 2442.783334468638,
+   "vehicles": 34,
+   "valid": true,
+   "time": 0.0012614727020263672
+  },
+  "CW": {
+   "distance": 1736.3957918034039,
+   "vehicles": 24,
+   "valid": true,
+   "time": 0.004505157470703125
+  }
+ },
+ "R201": {
+  "NN": {
+   "distance": 1984.9558763101609,
+   "vehicles": 15,
+   "valid": true,
+   "time": 0.0016143321990966797
+  },
+  "CW": {
+   "distance": 1457.4802640822124,
+   "vehicles": 18,
+   "valid": true,
+   "time": 0.004181385040283203
+  }
+ },
+ "RC101": {
+  "NN": {
+   "distance": 2711.2980771996213,
+   "vehicles": 27,
+   "valid": true,
+   "time": 0.0014946460723876953
+  },
+  "CW": {
+   "distance": 2134.887263221343,
+   "vehicles": 26,
+   "valid": true,
+   "time": 0.0044748783111572266
+  }
+ },
+ "RC102": {
+  "NN": {
+   "distance": 2647.099253311131,
+   "vehicles": 27,
+   "valid": true,
+   "time": 0.0014111995697021484
+  },
+  "CW": {
+   "distance": 1921.1401033070877,
+   "vehicles": 22,
+   "valid": true,
+   "time": 0.00536036491394043
+  }
+ },
+ "RC201": {
+  "NN": {
+   "distance": 2468.245614436476,
+   "vehicles": 15,
+   "valid": true,
+   "time": 0.001607656478881836
+  },
+  "CW": {
+   "distance": 1736.5658991391422,
+   "vehicles": 18,
+   "valid": true,
+   "time": 0.004208803176879883
+  }
+ },
+ "PHARMA60": {
+  "NN": {
+   "distance": 822.7798067636371,
+   "vehicles": 9,
+   "valid": true,
+   "time": 0.0005671977996826172
+  },
+  "CW": {
+   "distance": 657.915273061253,
+   "vehicles": 11,
+   "valid": true,
+   "time": 0.0016243457794189453
+  }
+ }
+}
